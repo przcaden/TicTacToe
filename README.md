@@ -13,5 +13,9 @@ will display that the respective player has won, all the remaining spots on the 
 
 
 ## Code Structure
-
+The Board class maintains all real values of the board and checks for win conditions.
 [to-do]
+
+## To-Do List
+- Formatting is slightly out of place. I plan to have the GUI formatted in rows instead of columns, and have the panels spaced out so the interface isn't so claustrophobic.
+- More comprehensive logos, images.
