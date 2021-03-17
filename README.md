@@ -18,4 +18,4 @@ The Board class maintains all real values of the board and checks for win condit
 
 ## To-Do List
 - Formatting is slightly out of place. I plan to have the GUI formatted in rows instead of columns, and have the panels spaced out so the interface isn't so claustrophobic.
-- More comprehensive logos, images.
+- More comprehensive logos & images.
